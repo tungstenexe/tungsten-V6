@@ -93,7 +93,7 @@
 #define MODE_ROF_HIGH               2    // Integer constant to indicate highest rate of fire 
 #define NUM_OF_MODE_ROF             3    // Number of ROF available
                                          
-#define REV_UP_DELAY                150  // Increase/decrease this to control the flywheel rev-up time (in milliseconds) 
+#define REV_UP_DELAY                180  // Increase/decrease this to control the flywheel rev-up time (in milliseconds) 
 
 #define BATTERY_MIN                 9.8  // Minimum voltage of battery for rev to operate
 #define BATTERY_MIN_3DIGIT          98   // Minimum voltage of battery for rev to operate
